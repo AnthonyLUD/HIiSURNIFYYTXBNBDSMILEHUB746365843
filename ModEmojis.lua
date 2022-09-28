@@ -37,5 +37,5 @@ function HoodsenseEmojis()
         end
     end
 end
-local success,err = pcall(HoodsenseEmojis)
+local success,err = pcall(SmilieEmojis)
 return CrownId
