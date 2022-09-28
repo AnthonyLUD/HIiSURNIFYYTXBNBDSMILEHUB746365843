@@ -7,7 +7,7 @@ DiamondId = {}
 StarId = {}
 
 --// Don't change anything under this.
-function HoodsenseEmojis()
+function SmilieEmojis()
     for _,v in pairs(game:GetService('Players'):GetChildren()) do
         if table.find(CrownId, v.UserId) then
             if v.Character then
